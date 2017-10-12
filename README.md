@@ -1,2 +1,3 @@
-# binaries
-Collection of precompiled binaries from my other repositories.  I will eventually update the binaries.  For getting the latest (source) code, please go immediately to the proper repository and fetch it from there.
+# Precompiled Binaries
+
+This repository contains a collection of precompiled binaries from my other repositories.  I will eventually update the binaries.  However, for getting the latest (source) code, you really should go immediately to the according repository and fetch the code directly from there.
